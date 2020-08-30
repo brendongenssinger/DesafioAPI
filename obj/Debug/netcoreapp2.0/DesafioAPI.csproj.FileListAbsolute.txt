@@ -1,0 +1,10 @@
+/Users/brendongenssinger/DesafioAPI/obj/Debug/netcoreapp2.0/DesafioAPI.csproj.CoreCompileInputs.cache
+/Users/brendongenssinger/DesafioAPI/obj/Debug/netcoreapp2.0/DesafioAPI.AssemblyInfoInputs.cache
+/Users/brendongenssinger/DesafioAPI/obj/Debug/netcoreapp2.0/DesafioAPI.AssemblyInfo.cs
+/Users/brendongenssinger/DesafioAPI/bin/Debug/netcoreapp2.0/DesafioAPI.deps.json
+/Users/brendongenssinger/DesafioAPI/bin/Debug/netcoreapp2.0/DesafioAPI.runtimeconfig.json
+/Users/brendongenssinger/DesafioAPI/bin/Debug/netcoreapp2.0/DesafioAPI.runtimeconfig.dev.json
+/Users/brendongenssinger/DesafioAPI/bin/Debug/netcoreapp2.0/DesafioAPI.dll
+/Users/brendongenssinger/DesafioAPI/bin/Debug/netcoreapp2.0/DesafioAPI.pdb
+/Users/brendongenssinger/DesafioAPI/obj/Debug/netcoreapp2.0/DesafioAPI.dll
+/Users/brendongenssinger/DesafioAPI/obj/Debug/netcoreapp2.0/DesafioAPI.pdb
